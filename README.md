@@ -1,2 +1,2 @@
-# inf1.00
-this is an official update files for infinity games
+# inf base files
+these files are some coldline html files for the basic version of infinity games 
